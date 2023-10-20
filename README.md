@@ -28,4 +28,15 @@ O desenvolvimento deste projeto foi separado em seções, conforme descrito abai
 
 - Se o profissional ocupa o cargo de Data Scientist, conforme suas características, ele estaria na faixa salarial correta?
   * Esta informação seria interessante para ajustar valores de salários conforme as características do profissional, dentro das empresas.
+ 
+## Critérios de avaliação
+Um processo de análise e modelagem de dados depende de diversos fatores, desde quais sementes aleatórias foram definadas até mesmo o desempenho computacional da máquina utlizada. Dessa forma, __não__ será cobrado que resultados os alunos obteram, mas sim o desenvolvimento do projeto, olhando os seguinte tópicos:
+
+- Desenvolvimento mínimo de cada um dos itens acima;
+
+- Padronização de Gráficos, Visualizações e códigos;
+
+- _Clean Code_ e códigos comentados;
+
+- Explicação de todos os processos feitos e decisões tomadas
 
